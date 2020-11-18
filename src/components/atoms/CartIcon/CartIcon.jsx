@@ -1,7 +1,7 @@
 import React from 'react';
 import { css } from '@emotion/react';
 import styled from '@emotion/styled';
-import { MQ, Typography, VisuallyHidden } from '../../../core/styles/Helpers';
+import { MQ, VisuallyHidden } from '../../../core/styles/Helpers';
 import { Cart } from '../../../svg/dist/index';
 
 const StyledCartIcon = styled.button(({

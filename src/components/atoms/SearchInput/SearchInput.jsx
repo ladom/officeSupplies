@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { css } from '@emotion/react';
 import styled from '@emotion/styled';
-import { MQ, Typography, VisuallyHidden } from '../../../core/styles/Helpers';
+import { MQ, VisuallyHidden } from '../../../core/styles/Helpers';
 import { MagnifyGlass } from '../../../svg/dist/index';
 
 const StyledInputWrapper = styled.div(({
